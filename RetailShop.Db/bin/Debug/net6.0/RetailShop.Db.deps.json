@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RetailShop.Db/1.0.0": {
+        "runtime": {
+          "RetailShop.Db.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RetailShop.Db/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
